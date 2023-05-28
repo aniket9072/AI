@@ -1,9 +1,6 @@
-package com.graph;
+
 import java.util.*;
-
-import com.graph.breathf.Edge;
-
-public class bfsgraph {
+ class bfsgraph {
 	static class Edge{
 		int src;
 		int des;
